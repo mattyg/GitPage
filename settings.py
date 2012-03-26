@@ -16,8 +16,8 @@ REPO_USERNAME = 'git'
 
 # Are You A Human keys (get them here: http://areyouahuman.com)
 #       publisher key
-AYAH_PUB_KEY = '28c848773861abf8534eb3b6946b5c73a15e491a'
+AYAH_PUB_KEY = ''
     
 #       scoring key
-AYAH_SCOR_KEY = '90cbedd7fbff5125cdcbcdaf38bf68743e12853d'
+AYAH_SCOR_KEY = ''
 
